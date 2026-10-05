@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest 
     steps:
       - name: Run a one line script
-        run: echo, Hello World!
+        run: echo , Hello World!
       
       - name: Run a multi line script
         run: |
